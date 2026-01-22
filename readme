@@ -1,0 +1,22 @@
+# ma-chaton
+
+This is simple archive I started something, but didn't have enought time to proceed. 
+
+## Agenda
+
+When I configured some services suricata or firewall I would like to test if it is
+operational.
+
+## What to build
+
+- Must read file
+    - need lib to read file, must be robust and reliable
+    - Errors: path do not exists, file is unreadable, permission denied, file is empty.
+- Must take params at start
+    - patch of file (relative)
+    - help
+    - version
+- Must have help
+- Must be async
+- Must have readable error messages
+
